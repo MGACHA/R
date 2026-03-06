@@ -1,7 +1,5 @@
 # R Programming Training Environment
 
-Welcome to your R learning workspace!
-
 ## Prerequisites - Installing R
 
 ### Step 1: Install R
@@ -58,3 +56,4 @@ source("01_hello_world.R")
 - [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 
 Happy Learning! 🚀
+
